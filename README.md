@@ -1,4 +1,4 @@
-# Blazored.LocalStorage.Extensions(In-progress)
+# LocalStorage.Extensions(In-progress)
 [![NuGet](https://img.shields.io/nuget/v/Obaki.LocalStorageCache.svg)](https://www.nuget.org/packages/Obaki.LocalStorageCache)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Obaki.LocalStorageCache?logo=nuget)](https://www.nuget.org/packages/Obaki.LocalStorageCache)
 
