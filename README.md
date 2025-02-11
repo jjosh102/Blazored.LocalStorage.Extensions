@@ -2,6 +2,12 @@
 [![NuGet](https://img.shields.io/nuget/v/Obaki.LocalStorageCache.svg)](https://www.nuget.org/packages/Obaki.LocalStorageCache)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Obaki.LocalStorageCache?logo=nuget)](https://www.nuget.org/packages/Obaki.LocalStorageCache)
 
+> **⚠️ Hey there! Important Update:**
+>
+> I recommend switching to this new library instead: [browser-cache-extensions](https://github.com/jjosh102/browser-cache-extensions).  
+> It's a simple extension on local storage and cuts out the extra  wrapper from the old library.
+
+
 This is a simple library that allows you to easily cache data in the browser's local storage. It provides a simple API for storing and retrieving data  based on a specified time-to-live (TTL). The library make use of [Blazored LocalStorage](https://github.com/Blazored/LocalStorage) for storing cache data.
 
 Overall, Obaki.LocalStorageCache is a simple and easy-to-use library that can help you improve the performance of your web application by caching data locally in the browser.
