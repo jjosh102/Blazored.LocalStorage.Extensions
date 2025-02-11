@@ -17,16 +17,16 @@ Overall, Obaki.LocalStorageCache is a simple and easy-to-use library that can he
 To install the package add the following line inside your csproj file with the latest version.
 
 ```
-<PackageReference Include="BrowserCache.Extensions" Version="x.x.x" />
+<PackageReference Include="Obaki.LocalStorageCache" Version="x.x.x" />
 ```
 
 An alternative is to install via the .NET CLI with the following command:
 
 ```
-dotnet add package BrowserCache.Extensions
+dotnet add package Obaki.LocalStorageCache
 ```
 
-For more information you can check the [nuget package](https://www.nuget.org/packages/BrowserCache.Extensions).
+For more information you can check the [nuget package](https://www.nuget.org/packages/Obaki.LocalStorageCache).
 
 ## Setup
 Register the needed services in your Program.cs file as **Scoped**
